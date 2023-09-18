@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hvm/static/css/main.0843b7dc.css",
+    "main.js": "/hvm/static/js/main.6650228d.js",
+    "static/media/yourlogohere.png": "/hvm/static/media/yourlogohere.bdeffc021089723b7230.png",
+    "index.html": "/hvm/index.html",
+    "main.0843b7dc.css.map": "/hvm/static/css/main.0843b7dc.css.map",
+    "main.6650228d.js.map": "/hvm/static/js/main.6650228d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0843b7dc.css",
+    "static/js/main.6650228d.js"
+  ]
+}

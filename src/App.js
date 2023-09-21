@@ -1,15 +1,19 @@
 import "./App.css";
 import Home from "./Components/Home";
-import About from "./Components/About";
+import Reviews from "./Components/Reviews";
 import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
+import Navbar from "./Components/Navbar";
 
 function App() {
   return (
     <div className="App">
-      <Home />
-      <About />
-      <Contact />
+      <Navbar/>
+        <div className="PageBody">
+          <Home />
+          <Reviews/>
+          <Contact />
+        </div>
       <Footer />
     </div>
   );

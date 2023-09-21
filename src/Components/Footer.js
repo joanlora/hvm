@@ -1,41 +1,22 @@
 import React from "react";
 // import Logo from "../Assets/Logo.svg";
-import { BsTwitter } from "react-icons/bs";
-import { SiLinkedin } from "react-icons/si";
-import { BsYoutube } from "react-icons/bs";
-import { FaFacebookF } from "react-icons/fa";
+import { SocialIcon } from "react-social-icons";
+
+// USE AN UL INSTEAD!!!!!
+// **********************
+
 
 const Footer = () => {
   return (
-    <div className="footer-wrapper">
-      <div className="footer-section-one">
-        <div className="footer-logo-container">
-          {/* <img src={Logo} alt="" /> */}
-        </div>
-        <div className="footer-icons">
-          <BsTwitter />
-          <SiLinkedin />
-          <BsYoutube />
-          <FaFacebookF />
-        </div>
-      </div>
-      <div className="footer-section-two">
-        <div className="footer-section-columns">
-          <span>Add More here</span>
-          <span>Add More here</span>
-          <span>Add More here</span>
-          <span>Add More here</span>
-          
-        </div>
-        <div className="footer-section-columns">
-          <span>999-9999-9999</span>
-        </div>
-        <div className="footer-section-columns">
-          <span>Terms & Conditions</span>
-          <span>Privacy Policy</span>
-        </div>
-      </div>
-    </div>
+    <div className="footer">
+  <ul>
+    <li><a href="https://instagram.com/hypervaluemarket"><h1>Instagram</h1></a></li>
+    <li><a href="https://www.youtube.com/channel/UCZSZfQuKCDPthsJumyX64sg"><h1>Youtube</h1></a></li>
+    <li><a href="https://calendly.com/coaching-c0y/initial-amazon-business-consultation-call?month=2023-09"><h1>Calendly</h1></a></li>
+    <li><a href="mailto:"><h1>Email</h1></a></li>
+    <li><a href="https://drive.google.com/file/d/1s0_YSiBaa1eaz_eguga1YCTbCSlqy0tq/view"><h1>Free Ebook</h1></a></li>
+  </ul>
+</div>
   );
 };
 

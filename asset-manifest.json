@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/hvm/static/css/main.0843b7dc.css",
-    "main.js": "/hvm/static/js/main.6650228d.js",
-    "static/media/yourlogohere.png": "/hvm/static/media/yourlogohere.bdeffc021089723b7230.png",
+    "main.css": "/hvm/static/css/main.795fb03c.css",
+    "main.js": "/hvm/static/js/main.06b9625f.js",
+    "static/media/Review1.jpeg": "/hvm/static/media/Review1.4c12e678c4dc0f0d4a0b.jpeg",
+    "static/media/Review2.jpeg": "/hvm/static/media/Review2.22d8cf3321aa9081efef.jpeg",
+    "static/media/HVMLogo.jpeg": "/hvm/static/media/HVMLogo.61f09c19ef91b4b37219.jpeg",
     "index.html": "/hvm/index.html",
-    "main.0843b7dc.css.map": "/hvm/static/css/main.0843b7dc.css.map",
-    "main.6650228d.js.map": "/hvm/static/js/main.6650228d.js.map"
+    "main.795fb03c.css.map": "/hvm/static/css/main.795fb03c.css.map",
+    "main.06b9625f.js.map": "/hvm/static/js/main.06b9625f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0843b7dc.css",
-    "static/js/main.6650228d.js"
+    "static/css/main.795fb03c.css",
+    "static/js/main.06b9625f.js"
   ]
 }
